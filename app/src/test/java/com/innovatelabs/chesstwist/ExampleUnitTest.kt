@@ -1,4 +1,4 @@
-package com.innovatelabz.chesstwist
+package com.innovatelabs.chesstwist
 
 import org.junit.Test
 
