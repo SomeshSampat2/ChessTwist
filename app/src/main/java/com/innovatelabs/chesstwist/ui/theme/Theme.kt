@@ -1,4 +1,4 @@
-package com.innovatelabz.chesstwist.ui.theme
+package com.innovatelabs.chesstwist.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

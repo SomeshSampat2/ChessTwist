@@ -1,4 +1,4 @@
-package com.innovatelabz.chesstwist
+package com.innovatelabs.chesstwist
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -29,7 +29,7 @@ import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
-import com.innovatelabz.chesstwist.ui.theme.ChessTwistTheme
+import com.innovatelabs.chesstwist.ui.theme.ChessTwistTheme
 import kotlin.math.PI
 import kotlin.math.cos
 import kotlin.math.sin
