@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace = "com.example.chesstwist"
+    namespace = "com.innovatelabz.chesstwist"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.chesstwist"
+        applicationId = "com.innovatelabz.chesstwist"
         minSdk = 24
         targetSdk = 34
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 11
+        versionName = "1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

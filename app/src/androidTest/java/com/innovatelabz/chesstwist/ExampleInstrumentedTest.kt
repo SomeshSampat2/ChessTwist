@@ -1,4 +1,4 @@
-package com.example.chesstwist
+package com.innovatelabz.chesstwist
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
